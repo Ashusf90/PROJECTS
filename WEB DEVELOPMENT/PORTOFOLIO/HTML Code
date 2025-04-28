@@ -1,0 +1,153 @@
+INDEX.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portofolio</title>
+</head>
+<link rel="stylesheet" href="index.css">
+
+<body>
+    <div class="upper">
+        <a href="home.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="skills.html">Skills</a>
+        <a href="contact.html">Contact me</a>
+    </div>
+    <div class="middle">
+        <div class="intro">
+            <h1>Hi, I am Ashu</h1>
+        </div>
+        <div class="fd">
+            <h2>Frontend Developer</h2>
+        </div>
+        <div class="int">
+            <p>I am a professional Frontend developer and I design and build beautiful websites for people around the globe.</p>
+        </div>
+        <div class="hire">
+            <input type="submit" value="Hire me"/>
+        </div>
+    </div>
+</body>
+</html>
+
+
+HOME.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<link rel="stylesheet" href="home.css">
+<body>
+    </div>
+    <div class="middle">
+        <div class="intro">
+            <h1>Hi, I am Ashu</h1>
+        </div>
+        <div class="fd">
+            <h2>Frontend Developer</h2>
+        </div>
+        <div class="int">
+            <p>I am a professional Frontend developer and I design and build beautiful websites for people around the globe.</p>
+        </div>
+        <div class="hire">
+            <input type="submit" value="Hire me"/>
+        </div>
+    
+</body>
+</html>
+
+
+CONTACT.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<link rel="stylesheet" href="contact.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
+<body>
+    
+    <div class="touch">
+        <p>Get in Touch</p>
+    </div>
+    <div class="link">
+        <a href="https://www.instagram.com/_contento_tihsrah_/"><i class="fa-brands fa-instagram"></i> Instagram</a><br>
+        <a href=""><i class="fa-brands fa-facebook"></i>Facebook</a><br>
+        <a href=""><i class="fa-brands fa-telegram"></i>Telegram</a><br><br><br><br>
+        <a href="mailto:theharshitgupta3008@gmail.com"><i class="fa-solid fa-envelope"></i>theharshitgupta3008@gmail.com</a><br>
+        <a href="tel:8726713008"><i class="fa-solid fa-phone"></i>8726713008</a>
+        
+    </div>
+    
+</body>
+</html>
+
+
+SKILLS.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills</title>
+</head>
+<link rel="stylesheet" href="skills.css">
+<body>
+    
+    <div class="skills">
+        <div class="pl">
+            <h3 id="text">Programming Languages</h3>
+            <li id="text">C</li>
+            <li id="text">Java</li>
+            <li id="text">Python</li>
+        </div>
+        <div class="w">
+            <h3 id="text">Web Development</h3>
+            <li id="text">HTML</li>
+            <li id="text">CSS</li>
+            <li id="text">JavaScript</li>
+        </div>
+        <div class="db">
+            <h3 id="text">Database</h3>
+            <li id="text">MySQL</li>
+            <li id="text">MongoDB</li>
+        </div>
+    </div>
+</body>
+</html>
+
+
+ABOUT.HTML
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+<link rel="stylesheet" href="about.css">
+<body>
+    
+    <div class="clg">
+        <p><li id="tex">I’m Ashu, a 2nd-year B.Tech student at KCC ITM, <br>passionate about web development and <br>building user-friendly interfaces.</li></p>
+    </div>
+    <div class="fd">
+        <p><li id="tex">As an aspiring frontend developer, I enjoy translating <br>design concepts into functional websites that <br>provide an engaging user experience.</li></p>
+    </div>
+    <div class="future">
+        <p><li id="tex">In the future, I aspire to work as a frontend developer <br>and contribute to building innovative digital products <br>that make a difference.</li></p>
+    </div>
+</body>
+</html>
