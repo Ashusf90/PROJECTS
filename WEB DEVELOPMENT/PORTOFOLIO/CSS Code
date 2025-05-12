@@ -99,3 +99,63 @@ HOME.CSS
 }
 
 
+ABOUT.CSS
+
+*{
+    background-color:  #D89A9E;
+    color: #A2A3BB;
+}
+.clg{
+    height: 200px;
+    margin-right: 910px;
+    border-radius: 50px;
+    border: 2px solid #FBF9FF;
+    text-align: center;
+    background-color: #FBF9FF;
+    align-content: center;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+.fd{
+    height: 200px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 50px;
+    border: 2px solid #FBF9FF;
+    background-color: #FBF9FF;
+    align-content: center;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+.future{
+    height: 200px;
+    text-align: center;
+    margin-left: 900px;
+    border-radius: 50px;
+    align-content: center;
+    border: 2px solid #FBF9FF;
+    background-color: #FBF9FF;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+}
+#tex{
+    color: #846267;
+    background-color: #FBF9FF;
+}
+.clg:hover{
+    font-size: 18px;
+    background-color: #A2A3BB;
+}
+.fd:hover{
+    font-size: 18px;
+    background-color: #A2A3BB;
+}
+.future:hover{
+    font-size: 18px;
+    background-color: #A2A3BB;
+}
+
