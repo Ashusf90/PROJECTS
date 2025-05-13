@@ -159,3 +159,22 @@ ABOUT.CSS
     background-color: #A2A3BB;
 }
 
+CONTACT.CSS
+
+*{
+    background-color: #FFDBDA;
+}
+.touch{
+    text-align: center;
+    height: 250px;
+    font-size: 200px;
+}
+.link{
+    padding-left: 100px;
+    color: black;
+}
+.touch:hover{
+    color: #3D5467;
+}
+
+    
