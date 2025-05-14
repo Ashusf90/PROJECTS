@@ -177,4 +177,63 @@ CONTACT.CSS
     color: #3D5467;
 }
 
+
+SKILLS.CSS
+
+*{
+    background-color: #B8DBD9;
+}
+.pl{
+    height: 200px;
+    margin-right: 910px;
+    border-radius: 50px;
+    border: 2px solid #EEE5E5;
+    text-align: center;
+    background-color: #EEE5E5;
+    align-content: center;
+    transition-property: all;
+  transition-duration: 2s;
+}
+.w{
+    height: 200px;
+    text-align: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 50px;
+    border: 2px solid #EEE5E5;
+    background-color: #EEE5E5;
+    align-content: center;
+    transition-property: all;
+  transition-duration: 2s;
+}
+.db{
+    height: 200px;
     
+    text-align: center;
+    margin-left: 900px;
+    border-radius: 50px;
+    align-content: center;
+    border: 2px solid #EEE5E5;
+    background-color: #EEE5E5;
+    transition-property: all;
+  transition-duration: 2s;
+    
+}
+#text{
+    color: #19647E;
+    background-color: #EEE5E5;
+    
+}
+.pl:hover{
+    background-color: #BAD4AA;
+    width: 400px;
+}
+.w:hover{
+    background-color: #BAD4AA;
+    width: 300px;
+}
+.db:hover{
+    background-color: #BAD4AA;
+    
+    
+}
