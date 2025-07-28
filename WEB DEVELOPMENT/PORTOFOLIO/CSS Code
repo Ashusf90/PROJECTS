@@ -133,7 +133,7 @@ ABOUT.CSS
 .future{
     height: 200px;
     text-align: center;
-    margin-left: 900px;
+    margin-left: 901px;
     border-radius: 50px;
     align-content: center;
     border: 2px solid #FBF9FF;
