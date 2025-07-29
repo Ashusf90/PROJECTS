@@ -141,7 +141,7 @@ ABOUT.HTML
 <body>
     
     <div class="clg">
-        <p><li id="tex">I’m Ashu, a 2nd-year B.Tech student at KCC ITM, <br>passionate about web development and <br>building user-friendly interfaces.</li></p>
+        <p><li id="tex">I’m Ashu, a 2nd-year B.Tech student at KCC ITM, <br>passionate about Web Development and <br>building user-friendly interfaces.</li></p>
     </div>
     <div class="fd">
         <p><li id="tex">As an aspiring frontend developer, I enjoy translating <br>design concepts into functional websites that <br>provide an engaging user experience.</li></p>
