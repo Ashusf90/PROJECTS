@@ -27,7 +27,7 @@ INDEX.HTML
             <p>I am a professional Frontend Developer and I design and build beautiful websites for people around the globe.</p>
         </div>
         <div class="hire">
-            <input type="submit" value="Hire me"/>
+            <input type="submit" value="Hire Me"/>
         </div>
     </div>
 </body>
