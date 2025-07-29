@@ -25,7 +25,7 @@
         </div>
     </div>
     <div class="msg-container">
-        <p id="msg">Play your Move</p>
+        <p id="msg">Play Your Move</p>
     </div>
 
 </body>
